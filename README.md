@@ -84,14 +84,14 @@ Interactive Tableau dashboard and info graphic for music creator and researcher,
 ----------------------------------------------------------------------------------------
 
 ## File Structure
--|-Dashboard.png
--|-Infographic.png
--|-data/
-- --preference data.csv
-- --universal_top_spotify_songs.csv
--|-Final Presentation Slides.pptx
--|-Spotify Analysis Proposal.pdf
--|-README.md
+- |-Dashboard.png
+- |-Infographic.png
+- |-data/
+-  --preference data.csv
+-  --universal_top_spotify_songs.csv
+- |-Final Presentation Slides.pptx
+- |-Spotify Analysis Proposal.pdf
+- |-README.md
 
 ----------------------------------------------------------------------------------------
 
