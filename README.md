@@ -1,7 +1,8 @@
 # Spotify-User-Survey
 Interactive Tableau dashboard and info graphic for music creator and researcher, showing the characteristics of Spotify music and user preferences.
 
-# Spotify Music Analysis: Popularity Trends & Song Characteristics  
+# Spotify Music Analysis: Popularity Trends & Song Characteristics 
+
 **Johns Hopkins University Academic Project**  
 
 ## Table of Contents  
