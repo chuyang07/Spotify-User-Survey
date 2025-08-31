@@ -41,7 +41,8 @@ Interactive Tableau dashboard and info graphic for music creator and researcher,
 
 ## Methodology  
 - **Dataset Selection**  
-- Extracted Spotify track-level dataset with enough samples and parameters from Kaggle, which is uploaded to this repository  
+- Extracted Spotify track-level dataset with enough samples and parameters from Kaggle, due to GitHub file size limits, only a sample dataset is uploaded.
+- The full dataset is available on [Kaggle 1](https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-countries-daily-updated), [Kaggle 2](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-1921-2020-160k-tracks)  
 - Key parameters includes music properties like duration, loudness, danceability, tempo, energy, valence, acousticness, mode, etc.  
 - **Analysis Process**  
 - Imported dataset into Tableau for data analysis and visualization  
@@ -75,7 +76,7 @@ Interactive Tableau dashboard and info graphic for music creator and researcher,
 ## Deliverables  
 - This repository includes:  
 - [Dashboard Image](./Dashboard.png)  
-- [Infographic Image](./infographic.png)  
+- [Infographic Image](./Infographic.png)  
 - [Data](./data/)  
 - [Final Presentation Slides](./Final%20Presentation%20Slides.pptx)  
 - [Spotify Analysis Proposal](./Spotify%20Analysis%20Proposal.pdf)
@@ -87,8 +88,8 @@ Interactive Tableau dashboard and info graphic for music creator and researcher,
 - |-Dashboard.png
 - |-Infographic.png
 - |-data/
--  --preference data.csv
--  --universal_top_spotify_songs.csv
+-  --preference data.xlsx
+-  --universal_top_spotify_songs.xlsx
 - |-Final Presentation Slides.pptx
 - |-Spotify Analysis Proposal.pdf
 - |-README.md
