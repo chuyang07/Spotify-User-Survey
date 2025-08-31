@@ -74,21 +74,18 @@ Interactive Tableau dashboard and info graphic for music creator and researcher,
 
 ## Deliverables  
 - This repository includes:  
-- [Dashboard](./dashboard/)  
-- [Infographic](./info%20graphic/)  
+- [Dashboard Image](./Dashboard.png)  
+- [Infographic Image](./infographic.png)  
 - [Data](./data/)  
 - [Final Presentation Slides](./Final%20Presentation%20Slides.pptx)  
-- [Spotify Analysis Proposal](./Spotify%20Analysis%20Proposal.pdf)  
+- [Spotify Analysis Proposal](./Spotify%20Analysis%20Proposal.pdf)
+- Note: The full interactive dashboard and info graphic file (.twbx) exceeds GitHub's upload limit. You can view the interactive version via [Tableau Public](https://public.tableau.com/app/profile/chuyang.yu/vizzes)
 
 ----------------------------------------------------------------------------------------
 
 ## File Structure
-|-dashboard/
- --Interactive Dashboard.twbx
- --Dashboard.png
-|-info graphic/
- --Interactive Infographic.twbx
- --Infographic.png
+|-Dashboard.png
+|-Infographic.png
 |-data/
  --preference data.csv
  --universal_top_spotify_songs.csv
